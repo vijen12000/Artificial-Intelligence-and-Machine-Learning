@@ -1,108 +1,11 @@
-# 📚 Artificial Intelligence and Machine Learning Notes
+## 🤖 Artificial Intelligence
 
-> Comprehensive notes, diagrams, cheat sheets, and revision material for AI, Machine Learning, Data Science, Mathematics, and related subjects.
-
----
-
-# Table of Contents
-
-## Artificial Intelligence
-
-- Chapter 01 - Introduction to Artificial Intelligence
-- Chapter 02 - Intelligent Agents
-- Chapter 03 - Solving Problems by Searching
-  - Uninformed Search
-  - Informed Search
-- Chapter 04 - Search in Complex Environments
-- Chapter 05 - Adversarial Search
-- Chapter 06 - Constraint Satisfaction Problems
-- Chapter 07 - Logical Agents
-- Chapter 08 - First Order Logic
-- Chapter 09 - Inference
-- Chapter 10 - Knowledge Representation
-- Chapter 11 - Automated Planning
-- Chapter 12 - Uncertain Knowledge
-- Chapter 13 - Probability & Bayes
-- Chapter 14 - Bayesian Networks
-- Chapter 15 - Machine Learning
-- Chapter 16 - Applications of AI
-
----
-
-## Machine Learning
-
-- Supervised Learning
-- Unsupervised Learning
-- Reinforcement Learning
-- Multi-Armed Bandits
-- Classification
-- Regression
-- Clustering
-
----
-
-## Mathematics
-
-- Linear Algebra
-- Calculus
-- Probability
-- Statistics
-
----
-
-## Data Structures & Algorithms
-
-- Arrays
-- Linked Lists
-- Trees
-- Graphs
-- Dynamic Programming
-- Greedy Algorithms
-
----
-
-## Python
-
-- Python Basics
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-Learn
-
----
-
-## Java
-
-- Core Java
-- OOP
-- Collections
-- Streams
-- Multithreading
-
----
-
-## Cloud & Architecture
-
-- Azure
-- AWS
-- System Design
-- Microservices
-
----
-
-## Revision Notes
-
-- Quick Revision
-- Formula Sheets
-- Cheat Sheets
-- Interview Notes
-
----
-
-## References
-
-- Artificial Intelligence: A Modern Approach (Russell & Norvig)
-- Hands-On Machine Learning
-- IIT BS Data Science Notes
-- Coursera
-- Udemy
+- 📘 [01 - Introduction to Artificial Intelligence](./01%20Introduction%20to%20Artificial%20Intelligence/)
+- 📘 [02 - Intelligent Agents](./02%20Intelligent%20Agents/)
+- 📘 [03 - Problem Solving by Searching](./03%20Problem%20Solving%20by%20Searching/)
+- 📘 [04 - Search in Complex Environments](./04%20Search%20in%20Complex%20Environments/)
+- 📘 [05 - Adversarial Search](./05%20Adversarial%20Search/)
+- 📘 [06 - Logical Agents](./06%20Logical%20Agents/)
+- 📘 [07 - Automated Planning](./07%20Automated%20Planning/)
+- 📘 [08 - Quantifying Uncertainty](./08%20Quantifying%20Uncertainty/)
+- 📘 [09 - Learning from Examples](./09%20Learning%20from%20Examples/)
